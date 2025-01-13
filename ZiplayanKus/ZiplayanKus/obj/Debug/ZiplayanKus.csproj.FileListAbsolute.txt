@@ -1,0 +1,10 @@
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\bin\Debug\ZiplayanKus.exe.config
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\bin\Debug\ZiplayanKus.exe
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\bin\Debug\ZiplayanKus.pdb
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.Form1.resources
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.Properties.Resources.resources
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.csproj.GenerateResource.cache
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.exe
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.pdb
+C:\Users\İbrahim Efe\Source\Repos\ZiplayanKus\ZiplayanKus\obj\Debug\ZiplayanKus.csprojAssemblyReference.cache
