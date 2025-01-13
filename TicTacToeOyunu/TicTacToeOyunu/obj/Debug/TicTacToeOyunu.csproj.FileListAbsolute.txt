@@ -1,0 +1,13 @@
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\bin\Debug\TicTacToeOyunu.exe.config
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\bin\Debug\TicTacToeOyunu.exe
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\bin\Debug\TicTacToeOyunu.pdb
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.csprojAssemblyReference.cache
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.frmAnaEkran.resources
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.Properties.Resources.resources
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.csproj.GenerateResource.cache
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.exe
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.pdb
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.frm3x3.resources
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.frm5x5.resources
+C:\Users\İbrahim Efe\Source\Repos\TicTacToeOyunu\TicTacToeOyunu\obj\Debug\TicTacToeOyunu.frm9x9.resources
